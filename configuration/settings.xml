@@ -132,9 +132,10 @@
 		</profile>
 	</profiles>
 
-	<activeProfiles>
+	<!-- local nexus disabled -->
+	<!-- <activeProfiles>
 		<activeProfile>build.repos</activeProfile>
-	</activeProfiles>
+	</activeProfiles> -->
 </settings>
 
 
